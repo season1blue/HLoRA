@@ -1,0 +1,15 @@
+.idea/
+*/__pycache__/
+*.py[cod]
+wandb/
+output*/
+fisher-matrix/
+weights
+boost/
+data/
+datasets/
+*.log
+log/
+*.pkl
+importance_pkl/
+lm-evaluation-harness/
